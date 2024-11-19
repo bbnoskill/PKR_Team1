@@ -24,6 +24,14 @@ const Body = () => {
           <h2 style={styles.name}>Bashynska Evelina</h2>
           <p style={styles.position}>Backend engineer</p>
         </div>
+
+    </div>
+  <div style={styles.card}>
+        <img src={"/photo_2024-11-19_15-14-57.jpg"} alt="Holub Yulia" style={styles.photo} />
+        <div style={styles.textContainer}>
+          <h2 style={styles.name}>Holub Yulia</h2>
+          <p style={styles.position}>QA</p>
+        </div>
     </main>
   );
 };
