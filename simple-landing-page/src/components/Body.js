@@ -32,6 +32,7 @@ const Body = () => {
           <h2 style={styles.name}>Holub Yulia</h2>
           <p style={styles.position}>QA</p>
         </div>
+   </div>
     </main>
   );
 };
