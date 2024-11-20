@@ -53,7 +53,7 @@ const styles = {
     width: "150px",
     padding: "1em",
     borderRadius: "10px",
-    backgroundColor: "#fff",
+    backgroundColor: "#ffff00",
     boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
     textAlign: "center",
     margin: "1em",
